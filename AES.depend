@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1669808435 source:d:\projects c++\aes\main.cpp
+	<iostream>
+	<string>
+	<string>
+	<bitset>
+	<sstream>
+	<bits/stdc++.h>
+
